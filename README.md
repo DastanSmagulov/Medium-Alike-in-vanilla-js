@@ -1,1 +1,3 @@
-# nFactorial-project-January29
+Medium Clone.
+
+Working with Api's in vanila JS using fetch.
